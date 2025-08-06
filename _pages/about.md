@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD student in the [HEAD Lab](https://github.com/TJHuangteam/HEAD/) of Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor’s degree from Jilin University with the honor of Outstanding Graduate.
+👋 I am a PhD student in the [HEAD Lab](https://github.com/TJHuangteam/HEAD/) of Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor’s degree from Jilin University with the honor of Outstanding Graduate.
 My research focuses on the continual evolution and reasoning of autonomous systems, empowering them to self-upgrade and interact intelligently in complex scenarios.
 
 
@@ -98,7 +98,7 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 </div>
 
 # 🏆 Awards
-- *2024.11* &nbsp; **National First Prize**, 2024 China Intelligent Vehicle Future Challenge – Complex Traffic Environment Algorithm Track, sponsored by the National Natural Science Foundation of China (NSFC)
+- *2024.11* &nbsp; **National First Prize**, 2024 China Intelligent Vehicle Future Challenge – Complex Traffic Environment Algorithm Track (NSFC)
 - *2024.11* &nbsp; **Province Second Prize**, 2024 China–Shandong Innovation and Entrepreneurship Competition for PhD and Postdoctoral Talents
 - *2022.11* &nbsp; **National First Prize**, 2022 GAC Honda Automobile Road Safety Innovation Competition
 - *2021.08* &nbsp; **National Second Prize**, 2021 National College Student Energy Conservation and Emission Reduction Competition
@@ -113,13 +113,14 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 # 📖 Educations
 - *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
 - *2020.09 - 2024.06*, B.Eng., Automotive Operation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
+- *2020.09 - 2024.06*, High School Diploma, <img src='images/haian.jpg' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
 
 # 📚 Academic Services
 **Journal Reviewer**:
 - IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering \| [Part D](https://journals.sagepub.com/home/pid)
 
-# 🗣️ Invited Talks
+# 🗣️ Talks
 - *2025.05*, Three-Minute (3MT) Academic Talk at Tongji University, on the topic of *Continual Self-Evolution in Closed-Loop Autonomous Driving Systems*
 - *2023.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Design of an Automatic Rear-End Collision Warning System for Vehicles* (Project Leader)
 - *2021.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Visual Filter Based on Self-Driven Film Materials* (Project Participant)

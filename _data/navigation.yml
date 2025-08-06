@@ -4,29 +4,29 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/#publications"
+    url: "/#-publications"
 
   - title: "Projects"
-    url: "/#project"
+    url: "/#-project"
 
   - title: "Awards"
-    url: "/#awards"
+    url: "/#-awards"
 
   - title: "Honors"
-    url: "/#honors"
+    url: "/#-honors"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Academic Services"
-    url: "/#academic-services"
+    url: "/#-academic-services"
 
-  - title: "Invited Talks"
-    url: "/#invited-talks"
+  - title: "Talks"
+    url: "/#-talks"
 
   - title: "Hobbies"
-    url: "/#hobbies"
+    url: "/#-hobbies"
 

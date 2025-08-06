@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yixin Cui"
+  name             : "Yixin Cui (崔艺馨)"
   avatar           : "images/Yixin-Cui.jpg"
   bio              : "PhD Student at Tongji University <br> AI and Autonomous Driving"
-  location         : "Shanghai, China"
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WJKcaZYAAAAJ"
   email            : "2411448@tongji.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Yixin-Cui-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "cuiyx1720"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0006-2228-0172"
   pinterest        :
