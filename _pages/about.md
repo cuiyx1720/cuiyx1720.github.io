@@ -24,7 +24,7 @@ redirect_from:
 
 # 🔥 News
 - *2025.07*: &nbsp;👏 Our paper [GEMINUS](https://arxiv.org/abs/2507.14456) on the Mixture-of-Experts framework for end-to-end autonomous driving has been released.
-- *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought for autonomous driving has been has been released.
+- *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought for autonomous driving has been released.
 - *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
 - *2024.09*: &nbsp;🎓 Started Ph.D. studies at Tongji University.
 - *2024.06*: &nbsp;🎉 Graduated from Jilin University with the honor of **Outstanding Bachelor Graduate**!
