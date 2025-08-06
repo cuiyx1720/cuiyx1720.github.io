@@ -37,7 +37,7 @@ redirect_from:
 
 **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**
 
-Chi Wan, **Yixin Cui** <span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulong Bai, Yanjun Huang*
+Chi Wan, **Yixin Cui**<span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulong Bai, Yanjun Huang*
 
 GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a dual-aware router, achieves state-of-the-art performance and robust adaptability across diverse traffic scenarios.
 
@@ -52,7 +52,7 @@ GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a
 
 **Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**
 
-**Yixin Cui** <span style="color:#7a8288;">, Haotian Lin, Shuo Yang, Yixiao Wang, Yanjun Huang*, Hong Chen</span>
+**Yixin Cui**<span style="color:#7a8288;">, Haotian Lin, Shuo Yang, Yixiao Wang, Yanjun Huang*, Hong Chen</span>
 
 We explore how Chain-of-Thought reasoning enhances autonomous driving systems and propose its integration with self-learning for continual model evolution.
 
@@ -111,7 +111,7 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - *2020-2024* &nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5%**)
 
 # 📖 Educations
-- *2024.09 - Now*, &nbsp; &nbsp; Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
+- *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
 - *2020.09 - 2024.06*, B.Eng., Automotive Operation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
 - *2017.09 - 2020.07*, High School Diploma, <img src='images/haian.jpg' style='width: 23px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
 
@@ -130,9 +130,9 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - *2021.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Visual Filter Based on Self-Driven Film Materials* (Project Participant)
 
 # 📌 Hobbies
-- 🏓 I enjoy playing **table tennis** and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association
-- ♟️ I have a strong interest in strategic board games and play **Go** at an amateur 2-dan level
-- 🎸 I enjoy playing acoustic **guitar** (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing
+- 🏓 I enjoy playing **table tennis** and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association.
+- ♟️ I have a strong interest in strategic board games and play **Go** at an amateur 2-dan level.
+- 🎸 I enjoy playing acoustic **guitar** (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
 - ⚽️ I am a loyal supporter of [Arsenal Football Club](https://www.arsenal.com/), with the former coach [Arsène Wenger](https://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger) being a major source of inspiration — COYG!
-- 🎮 I enjoy **Nintendo** games, particularly Super Mario Maker 2 for its creativity and fun
-- 📸 Recently, I’ve also been exploring **fitness** and **photography** to enrich my daily life
+- 🎮 I enjoy **Nintendo** games, particularly Super Mario Maker 2 for its creativity and fun.
+- 📸 Recently, I’ve also been exploring **fitness** and **photography** to enrich my daily life.
