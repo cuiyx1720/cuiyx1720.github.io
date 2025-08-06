@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD student at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor's degree from Jilin University with the honor of Outstanding Graduate (Top 1%).
+👋 I am a PhD student at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV). Previously completed my bachelor's degree at Jilin University, graduating as an Outstanding Graduate (Top 1%). I am currently under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ, National High-level Talent in China.
 
-🚘 My research centers on the continual closed-loop evolution of autonomous systems. I focus on enabling self-evolving, adaptive, and trustworthy autonomous systems through reinforcement learning, continual learning, and LLM reasoning.
+🚘 My research centers on the continual closed-loop evolution of autonomous systems. I focus on enabling self-evolving, adaptive, and trustworthy autonomous systems through Reinforcement learning, Continual learning, and LLM reasoning.
 
 
 # 🔥 News
@@ -113,7 +113,7 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 # 📖 Educations
 - *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
 - *2020.09 - 2024.06*, B.Eng., Automotive Operation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
-- *2017.09 - 2020.07*, High School Diploma, <img src='images/haian1.jpg' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
+- *2017.09 - 2020.07*, High School Diploma, <img src='images/haian1.jpg' style='width: 23px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
 
 # 📚 Academic Services
 **Journal Reviewer**:
@@ -133,6 +133,6 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - 🏓 I enjoy playing **table tennis** and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association. 
 - ♟️ I have a strong interest in strategic board games and play **Go** at an amateur 2-dan level.
 - 🎸 I enjoy playing acoustic **guitar** (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
-- ⚽️ I am a big supporter of [Arsenal Football Club](https://www.arsenal.com/), with the former coach Arsène Wenger being a major source of inspiration — COYG!
+- ⚽️ I am a loyal supporter of [Arsenal Football Club](https://www.arsenal.com/), with the former coach [Arsène Wenger](https://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger) being a major source of inspiration — COYG!
 - 🎮 I enjoy **Nintendo** games, particularly Super Mario Maker 2 for its creativity and fun.
 - 📸 Recently, I’ve also been exploring **fitness** and **photography** to enrich my daily life. 
