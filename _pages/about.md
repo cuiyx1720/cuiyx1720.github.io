@@ -83,7 +83,7 @@ MoPE enables continual adaptation in autonomous driving via progressive expert a
 <div class='paper-box'><div class='paper-box-image'><img src='images/HEAD.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**<img src='images/head_logo.jpg' style='width: 30px; height: auto; vertical-align:-35%; margin-right:0px;'> HEAD: Holistic Evolutionary Autonomous Driving**
+**<img src='images/head_logo.jpg' style='width: 30px; height: auto; vertical-align: middle; margin-right:3px;'> HEAD: Holistic Evolutionary Autonomous Driving**
 
 <span style="color:#7a8288;"> Institute of Intelligent Vehicles, Tongji University, *2024.10 - now*</span>
 
