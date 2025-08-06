@@ -108,10 +108,10 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - *2023.09* &nbsp; **DaTong Scholarship** (**Top 2%**), awarded by enterprise sponsorship
 - *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship** (**Top 1%**), funded by the Suzhou Government of Jiangsu Province
 - *2020-2024* &nbsp; **First-class Scholarship** of Jilin University (Four times, **Top 2%**)
-- *2020-2024*nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5%**)
+- *2020-2024* &nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5%**)
 
 # 📖 Educations
-- *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
+- *2024.09 - Now*,     Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
 - *2020.09 - 2024.06*, B.Eng., Automotive Operation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
 - *2017.09 - 2020.07*, High School Diploma, <img src='images/haian.jpg' style='width: 23px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
 
