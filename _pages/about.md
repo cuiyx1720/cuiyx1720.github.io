@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD student in the [HEAD Lab](https://github.com/TJHuangteam/HEAD/) at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor's degree from Jilin University with the honor of Outstanding Graduate (Top 1%).
+👋 I am a PhD student at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor's degree from Jilin University with the honor of Outstanding Graduate (Top 1%).
 
 🚘 My research centers on the continual closed-loop evolution of autonomous systems. I focus on enabling self-evolving, adaptive, and trustworthy autonomous systems through reinforcement learning, continual learning, and LLM reasoning.
 
@@ -107,13 +107,13 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - *2024.06* &nbsp; **Outstanding Graduate** of Jilin University (**Top 1%**)
 - *2023.09* &nbsp; **DaTong Scholarship** (**Top 2%**), awarded by enterprise sponsorship
 - *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship** (**Top 1%**), funded by the Suzhou Government of Jiangsu Province
-- *2020-2024* &nbsp; **First-class Scholarship** of Jilin University (Four times, **Top 2 %**)
-- *2020-2024*nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5 %**)
+- *2020-2024* &nbsp; **First-class Scholarship** of Jilin University (Four times, **Top 2%**)
+- *2020-2024*nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5%**)
 
 # 📖 Educations
 - *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
 - *2020.09 - 2024.06*, B.Eng., Automotive Operation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
-- *2017.09 - 2020.07*, High School Diploma, <img src='images/haian.jpg' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
+- *2017.09 - 2020.07*, High School Diploma, <img src='images/haian1.jpg' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
 
 # 📚 Academic Services
 **Journal Reviewer**:
