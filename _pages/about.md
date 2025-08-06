@@ -28,7 +28,7 @@ redirect_from:
 - *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
 - *2024.09*: &nbsp;🎓 Started Ph.D. studies at Tongji University.
 - *2024.06*: &nbsp;🎉 Graduated from Jilin University with the honor of **Outstanding Bachelor Graduate**!
-- *2022.11*: &nbsp;📑 My first [invention patent](https://kns.cnki.net/kcms2/article/abstract?v=FqAfUZ3F7baPG1Bx9_olX9DYGWZbjmkgIzugBV-T4XtdedrwgyWYuPofTEdMbS_UWxc_XwqsSjGKK07MiCnkOOMpCZFEHSelFx4bNU8T9WdNIRSWo9r9dI_sxF-gCjD98_U9zdULTlN2KmJ1-8c8kGm1Qh4cKb4WrGKtl4Dh9ExWn5-_qEQrqQ==&uniplatform=NZKPT&language=CHS) has been officially granted.
+- *2022.11*: &nbsp;📑 My first [invention patent](https://kns.cnki.net/kcms2/article/abstract?v=FqAfUZ3F7baPG1Bx9_olX9DYGWZbjmkgIzugBV-T4XtdedrwgyWYuPofTEdMbS_UWxc_XwqsSjGKK07MiCnkOOMpCZFEHSelFx4bNU8T9WdNIRSWo9r9dI_sxF-gCjD98_U9zdULTlN2KmJ1-8c8kGm1Qh4cKb4WrGKtl4Dh9ExWn5-_qEQrqQ==&uniplatform=NZKPT&language=CHS) ZL114655114A has been officially granted.
 
 # 📝 Publications 
 
@@ -105,7 +105,7 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 
 # 🏅 Honors
 - *2024.06* &nbsp; **Outstanding Graduate** of Jilin University (**Top 1%**)
-- *2023.09* &nbsp; **DaTong Scholarship** (**Top 2%**), awarded by enterprise sponsorship
+- *2023.09* &nbsp; **MAXUS Automative Scholarship** (**Top 2%**), awarded by SAIC MAXUS Automotive Co., Ltd.
 - *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship** (**Top 1%**), funded by the Suzhou Government of Jiangsu Province
 - *2020-2024* &nbsp; **First-class Scholarship** of Jilin University (Four times, **Top 2%**)
 - *2020-2024* &nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5%**)
