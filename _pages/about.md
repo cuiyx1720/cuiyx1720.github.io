@@ -17,42 +17,115 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+👋 I am a PhD student in the [HEAD Lab](https://github.com/TJHuangteam/HEAD/) of Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), advised by [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor’s degree from Jilin University with the honor of Outstanding Graduate.
+My research focuses on the continual evolution and reasoning of autonomous systems, empowering them to self-upgrade and interact intelligently in complex scenarios.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;👏 Our paper [GEMINUS](https://arxiv.org/abs/2507.14456) on the Mixture-of-Experts framework for end-to-end autonomous driving has been released.
+- *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought (CoT) for autonomous driving has been has been released.
+- *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
+- *2024.09*: &nbsp;🎓 Started Ph.D. studies at Tongji University.
+- *2024.06*: &nbsp;🎉 Honored as an **Outstanding Bachelor Graduate**!
+- *2024.03*: &nbsp;🤖 .
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/GEMINUS.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Chi Wan, **Yixin Cui**, <span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulong Bai, Yanjun Huang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a dual-aware router, achieves state-of-the-art performance and robust adaptability across diverse traffic scenarios.
+
+<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2507.14456) \| [![](https://img.shields.io/github/stars/newbrains1/GEMINUS?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/newbrains1/GEMINUS)
+
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><img src='images/CoT4AD.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**
+
+**Yixin Cui**, <span style="color:#7a8288;">, Haotian Lin, Shuo Yang, Yixiao Wang, Yanjun Huang, Hong Chen</span>
+
+We explore how Chain-of-Thought reasoning enhances autonomous driving systems and propose its integration with self-learning for continual model evolution.
+
+<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2505.20223) \| [![](https://img.shields.io/github/stars/cuiyx1720/Awesome-CoT4AD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/cuiyx1720/Awesome-CoT4AD)
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/MoPE.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Continual Adaptation for Autonomous Driving with the Mixture of Progressive Experts Network**
+
+**Yixin Cui**, <span style="color:#7a8288;">, Shuo Yang, Chi Wan, Xincheng Li, Jiaming Xing, Yuanjian Zhang, Yanjun Huang, Hong Chen
+
+MoPE enables continual adaptation in autonomous driving via progressive expert activation, achieving strong performance in complex driving scenarios.
+
+<span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2502.05943)
+
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+# 🔬 Project
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/HEAD.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Holistic Evolutionary Autonomous Driving(HEAD)**
+
+<span style="color:#7a8288;"> Institute of Intelligent Vehicles, Tongji University, *2024.10 - now*</span>
+
+**Student Leader**
+
+HEAD is a holistic suite of evolutionary autonomous driving software, based on the MetaDrive simulation platform, that seamlessly imports driving scenarios, uploads training models, and efficiently performs continuous training designed to significantly improve the performance of arbitrary models.
+
+
+</div>
+</div>
+
+# 🏆 Awards
+- *2024.11* &nbsp; **National First Prize**, 2024 China Intelligent Vehicle Future Challenge – Complex Traffic Environment Algorithm Track, sponsored by the National Natural Science Foundation of China (NSFC)
+- *2024.11* &nbsp; **Province Second Prize**, 2024 China–Shandong Innovation and Entrepreneurship Competition for PhD and Postdoctoral Talents
+- *2022.11* &nbsp; **National First Prize**, 2022 GAC Honda Automobile Road Safety Innovation Competition
+- *2021.08* &nbsp; **National Second Prize**, 2021 National College Student Energy Conservation and Emission Reduction Competition
+
+# 🏅 Honors
+- *2024.06* &nbsp; **Outstanding Graduate** of Jilin University (**Top 1%**)
+- *2023.09* &nbsp; **DaTong Scholarship** (**Top 2%**), awarded by enterprise sponsorship
+- *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship** (**Top 1%**), funded by the Suzhou Government of Jiangsu Province
+- *2020-2024* &nbsp; **First-class Scholarship** of Jilin University (Four times, **Top 2 %**)
+- *2020-2024*nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5 %**)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
+- *2020.09 - 2024.06*, B.Eng., Transportation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 📚 Academic Services
+**Journal Reviewer**:
+- IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
+- Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering \| [Part D](https://journals.sagepub.com/home/pid)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🗣️ Invited Talks
+- *2025.05*, Three-Minute (3MT) Academic Talk at Tongji University, on the topic of *Continual Self-Evolution in Closed-Loop Autonomous Driving Systems*
+- *2023.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Design of an Automatic Rear-End Collision Warning System for Vehicles* (Project Leader)
+- *2021.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Visual Filter Based on Self-Driven Film Materials* (Project Participant)
+
+# 🤖 Hobbies
+- I enjoy playing table tennis 🏓 and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association. 
+- I have a strong interest in strategic board games and play Go ⚫ at an amateur 2-dan level.
+- I enjoy playing acoustic guitar 🎸 (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
+- I am a big supporter of [Arsenal Football Club](https://www.arsenal.com/) ⚽️, with the former coach Arsène Wenger being a major source of inspiration — COYG!
+- I enjoy Nintendo games, particularly Super Mario Maker 2 🎮 for its creativity and fun.
+- Recently, I’ve also been exploring fitness 💪 and photography 📸 to enrich my daily life. 
