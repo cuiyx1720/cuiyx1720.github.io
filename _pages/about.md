@@ -23,7 +23,7 @@ My research focuses on the continual evolution and reasoning of autonomous syste
 
 # 🔥 News
 - *2025.07*: &nbsp;👏 Our paper [GEMINUS](https://arxiv.org/abs/2507.14456) on the Mixture-of-Experts framework for end-to-end autonomous driving has been released.
-- *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought (CoT) for autonomous driving has been has been released.
+- *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought for autonomous driving has been has been released.
 - *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
 - *2024.09*: &nbsp;🎓 Started Ph.D. studies at Tongji University.
 - *2024.06*: &nbsp;🎉 Honored as an **Outstanding Bachelor Graduate**!
@@ -37,7 +37,7 @@ My research focuses on the continual evolution and reasoning of autonomous syste
 
 **GEMINUS: Dual-aware Global and Scene-Adaptive Mixture-of-Experts for End-to-End Autonomous Driving**
 
-Chi Wan, **Yixin Cui**, <span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulong Bai, Yanjun Huang
+Chi Wan, **Yixin Cui** <span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulong Bai, Yanjun Huang*
 
 GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a dual-aware router, achieves state-of-the-art performance and robust adaptability across diverse traffic scenarios.
 
@@ -52,7 +52,7 @@ GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a
 
 **Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**
 
-**Yixin Cui**, <span style="color:#7a8288;">, Haotian Lin, Shuo Yang, Yixiao Wang, Yanjun Huang, Hong Chen</span>
+**Yixin Cui** <span style="color:#7a8288;">, Haotian Lin, Shuo Yang, Yixiao Wang, Yanjun Huang*, Hong Chen</span>
 
 We explore how Chain-of-Thought reasoning enhances autonomous driving systems and propose its integration with self-learning for continual model evolution.
 
@@ -67,7 +67,7 @@ We explore how Chain-of-Thought reasoning enhances autonomous driving systems an
 
 **Continual Adaptation for Autonomous Driving with the Mixture of Progressive Experts Network**
 
-**Yixin Cui**, <span style="color:#7a8288;">, Shuo Yang, Chi Wan, Xincheng Li, Jiaming Xing, Yuanjian Zhang, Yanjun Huang, Hong Chen
+**Yixin Cui** <span style="color:#7a8288;">, Shuo Yang, Chi Wan, Xincheng Li, Jiaming Xing, Yuanjian Zhang, Yanjun Huang*, Hong Chen
 
 MoPE enables continual adaptation in autonomous driving via progressive expert activation, achieving strong performance in complex driving scenarios.
 
@@ -80,7 +80,7 @@ MoPE enables continual adaptation in autonomous driving via progressive expert a
 
 # 🔬 Project
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/HEAD.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/HEAD.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Holistic Evolutionary Autonomous Driving(HEAD)**
@@ -123,9 +123,9 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - *2021.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Visual Filter Based on Self-Driven Film Materials* (Project Participant)
 
 # 🤖 Hobbies
-- I enjoy playing table tennis 🏓 and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association. 
-- I have a strong interest in strategic board games and play Go ⚫ at an amateur 2-dan level.
-- I enjoy playing acoustic guitar 🎸 (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
-- I am a big supporter of [Arsenal Football Club](https://www.arsenal.com/) ⚽️, with the former coach Arsène Wenger being a major source of inspiration — COYG!
-- I enjoy Nintendo games, particularly Super Mario Maker 2 🎮 for its creativity and fun.
-- Recently, I’ve also been exploring fitness 💪 and photography 📸 to enrich my daily life. 
+- 🏓 I enjoy playing table tennis and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association. 
+- ⚫ I have a strong interest in strategic board games and play Go at an amateur 2-dan level.
+- 🎸 I enjoy playing acoustic guitar (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
+- ⚽️ I am a big supporter of [Arsenal Football Club](https://www.arsenal.com/), with the former coach Arsène Wenger being a major source of inspiration — COYG!
+- 🎮 I enjoy Nintendo games, particularly Super Mario Maker 2 for its creativity and fun.
+- 📸💪 Recently, I’ve also been exploring fitness  and photography  to enrich my daily life. 
