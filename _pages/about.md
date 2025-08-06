@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD student in the [HEAD Lab](https://github.com/TJHuangteam/HEAD/) of Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor’s degree from Jilin University with the honor of Outstanding Graduate.
-My research focuses on the continual evolution and reasoning of autonomous systems, empowering them to self-upgrade and interact intelligently in complex scenarios.
+👋 I am a PhD student in the [HEAD Lab](https://github.com/TJHuangteam/HEAD/) at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV), under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ). I received my bachelor's degree from Jilin University with the honor of Outstanding Graduate (Top 1%).
+
+🚘 My research centers on the continual closed-loop evolution of autonomous systems. I focus on enabling self-evolving, adaptive, and trustworthy autonomous systems through reinforcement learning, continual learning, and LLM reasoning.
 
 
 # 🔥 News
@@ -27,8 +28,7 @@ My research focuses on the continual evolution and reasoning of autonomous syste
 - *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
 - *2024.09*: &nbsp;🎓 Started Ph.D. studies at Tongji University.
 - *2024.06*: &nbsp;🎉 Graduated from Jilin University with the honor of **Outstanding Bachelor Graduate**!
-- *2024.03*: &nbsp;🤖 .
-
+- *2022.11*: &nbsp;📑 My first [invention patent](https://kns.cnki.net/kcms2/article/abstract?v=FqAfUZ3F7baPG1Bx9_olX9DYGWZbjmkgIzugBV-T4XtdedrwgyWYuPofTEdMbS_UWxc_XwqsSjGKK07MiCnkOOMpCZFEHSelFx4bNU8T9WdNIRSWo9r9dI_sxF-gCjD98_U9zdULTlN2KmJ1-8c8kGm1Qh4cKb4WrGKtl4Dh9ExWn5-_qEQrqQ==&uniplatform=NZKPT&language=CHS) has been officially granted.
 
 # 📝 Publications 
 
@@ -113,21 +113,25 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 # 📖 Educations
 - *2024.09 - Now*, Ph.D., Automotive Engineering, <img src='images/Tongji_logo.png' style='width: 25px; height: auto; vertical-align:-33%; margin-right:0px;'> Tongji University (TJU), Shanghai, China **(Test Waiver Admission)**
 - *2020.09 - 2024.06*, B.Eng., Automotive Operation Engineering, <img src='images/JLU_logo.png' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Jilin University (JLU), Changchun, China **(Outstanding Graduate,Top 1%)**
-- *2020.09 - 2024.06*, High School Diploma, <img src='images/haian.jpg' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
+- *2017.09 - 2020.07*, High School Diploma, <img src='images/haian.jpg' style='width: 25px; height: auto; vertical-align:-35%; margin-right:0px;'> Haian Senior School of Jiangsu Province, Nantong, China
 
 # 📚 Academic Services
 **Journal Reviewer**:
 - IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering \| [Part D](https://journals.sagepub.com/home/pid)
 
+[//]: # (**Conference Reviewer**:  )
+
+[//]: # (- IEEE Intelligent Transportation Systems Conference \| [ITSC]&#40;https://ieee-itsc.org/2024/&#41;)
+
 # 🗣️ Talks
 - *2025.05*, Three-Minute (3MT) Academic Talk at Tongji University, on the topic of *Continual Self-Evolution in Closed-Loop Autonomous Driving Systems*
 - *2023.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Design of an Automatic Rear-End Collision Warning System for Vehicles* (Project Leader)
 - *2021.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Visual Filter Based on Self-Driven Film Materials* (Project Participant)
 
-# 🤖 Hobbies
+# 📌 Hobbies
 - 🏓 I enjoy playing **table tennis** and am currently a member of the Tongji University Team. During my undergraduate studies, I served as the Vice President of the Jilin University Table Tennis Association. 
-- ⚫ I have a strong interest in strategic board games and play **Go** at an amateur 2-dan level.
+- ♟️ I have a strong interest in strategic board games and play **Go** at an amateur 2-dan level.
 - 🎸 I enjoy playing acoustic **guitar** (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
 - ⚽️ I am a big supporter of [Arsenal Football Club](https://www.arsenal.com/), with the former coach Arsène Wenger being a major source of inspiration — COYG!
 - 🎮 I enjoy **Nintendo** games, particularly Super Mario Maker 2 for its creativity and fun.
