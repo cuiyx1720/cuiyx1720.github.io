@@ -105,8 +105,8 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 
 # 🏅 Honors
 - *2024.06* &nbsp; **Outstanding Graduate** of Jilin University (**Top 1%**)
-- *2023.09* &nbsp; **MAXUS Automative Scholarship** (**Top 2%**), awarded by SAIC MAXUS Automotive Co., Ltd.
-- *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship** (**Top 1%**), funded by the Suzhou Government of Jiangsu Province
+- *2023.09* &nbsp; **MAXUS Automative Scholarship**, awarded by SAIC MAXUS Automotive Co., Ltd. (**Top 2%**)
+- *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship**, funded by the Suzhou Government of Jiangsu Province (**Top 1%**)
 - *2020-2024* &nbsp; **First-class Scholarship** of Jilin University (Four times, **Top 2%**)
 - *2020-2024* &nbsp; **Academic and Scientific Scholarship** of Jilin University (Four times, **Top 5%**)
 
