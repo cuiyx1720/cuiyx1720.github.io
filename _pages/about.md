@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 I am a PhD student at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV). Previously completed my bachelor's degree at Jilin University, graduating as an Outstanding Graduate (Top 1%). I am currently under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ), National High-level Talent in China.
+👋 I am a PhD student at Tongji University, affiliated with the Institute of Intelligent Vehicles (TJU-IIV). Previously completed my bachelor's degree at Jilin University, graduating as an Outstanding Graduate (Top 1%). I am currently under the supervision of [Prof. Yanjun Huang](https://scholar.google.com/citations?user=r_XUM78AAAAJ), who is National High-level Talent in China.
 
 🚘 My research centers on the continual closed-loop evolution of autonomous systems. I focus on enabling self-evolving, adaptive, and trustworthy autonomous systems through Reinforcement learning, Continual learning, and LLM reasoning.
 
@@ -26,7 +26,7 @@ redirect_from:
 - *2025.07*: &nbsp;👏 Our paper [GEMINUS](https://arxiv.org/abs/2507.14456) on the Mixture-of-Experts framework for end-to-end autonomous driving has been released.
 - *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought for autonomous driving has been released.
 - *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
-- *2024.09*: &nbsp;🎓 Started Ph.D. studies at Tongji University.
+- *2024.09*: &nbsp;🎓 Started my Ph.D. studies at Tongji University.
 - *2024.06*: &nbsp;🎉 Graduated from Jilin University with the honor of **Outstanding Bachelor Graduate**!
 - *2022.11*: &nbsp;📑 My first [invention patent](https://kns.cnki.net/kcms2/article/abstract?v=FqAfUZ3F7baPG1Bx9_olX9DYGWZbjmkgIzugBV-T4XtdedrwgyWYuPofTEdMbS_UWxc_XwqsSjGKK07MiCnkOOMpCZFEHSelFx4bNU8T9WdNIRSWo9r9dI_sxF-gCjD98_U9zdULTlN2KmJ1-8c8kGm1Qh4cKb4WrGKtl4Dh9ExWn5-_qEQrqQ==&uniplatform=NZKPT&language=CHS) ZL114655114A has been officially granted.
 
