@@ -135,4 +135,4 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - 🎸 I enjoy playing acoustic **guitar** (Level 8). My favorite guitarist is Masaaki Kishibe, whose music greatly inspires my playing.
 - ⚽️ I am a loyal supporter of [Arsenal Football Club](https://www.arsenal.com/), with the former coach [Arsène Wenger](https://en.wikipedia.org/wiki/Ars%C3%A8ne_Wenger) being a major source of inspiration — COYG!
 - 🎮 I enjoy **Nintendo** games, particularly Super Mario Maker 2 for its creativity and fun.
-- 📸 Recently, I’ve also been exploring **fitness** and **photography** to enrich my daily life.
+- 📸 Recently, I’ve also been exploring **baseball**, **fitness** and **photography** to enrich my daily life.
