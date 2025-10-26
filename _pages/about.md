@@ -44,7 +44,7 @@ GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a
 
 <span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2507.14456) \| [![](https://img.shields.io/github/stars/newbrains1/GEMINUS?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/newbrains1/GEMINUS)
 
-**Media Coverage**: Featured in the *Heart of Autonomous Driving* media report. [Read more »](https://mp.weixin.qq.com/s/LU-W2nzSWCr6oHS-2EqZHg)
+**Media Coverage**: Featured in the *Heart of Autonomous Driving*. [Read more »](https://mp.weixin.qq.com/s/LU-W2nzSWCr6oHS-2EqZHg)
 
 
 </div>
@@ -61,7 +61,7 @@ We explore how Chain-of-Thought reasoning enhances autonomous driving systems an
 
 <span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2505.20223) \| [![](https://img.shields.io/github/stars/cuiyx1720/Awesome-CoT4AD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/cuiyx1720/Awesome-CoT4AD)
 
-**Media Coverage**: Featured in the *Autonomous Driving Column* media report. [Read more »](https://mp.weixin.qq.com/s/P200xHkVxuys9XRyC3hS5w)
+**Media Coverage**: Featured in the *Autonomous Driving Column*. [Read more »](https://mp.weixin.qq.com/s/P200xHkVxuys9XRyC3hS5w)
 
 </div>
 </div>
@@ -95,7 +95,7 @@ MoPE enables continual adaptation in autonomous driving via progressive expert a
 
 HEAD is a holistic suite of evolutionary autonomous driving software, based on the MetaDrive simulation platform, that seamlessly imports driving scenarios, uploads training models, and efficiently performs continuous training designed to significantly improve the performance of arbitrary models.
 
-I led the presentation of the project at the National Industrial Software Conference, where it received high praise from experts.
+I led the presentation of the project at *the National Industrial Software Conference*, where it received high praise from experts.
 
 [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/abstract/document/10384641) \| [![](https://img.shields.io/github/stars/XingZuoMuYe/HEAD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/XingZuoMuYe/HEAD)
 
@@ -125,6 +125,7 @@ I led the presentation of the project at the National Industrial Software Confer
 **Journal Reviewer**:
 - IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering \| [Part D](https://journals.sagepub.com/home/pid)
+
 **Conference Reviewer**: 
 - IEEE International Conference on Robotics and Automation \| [ICRA 2025](https://2025.ieee-icra.org/)
 
