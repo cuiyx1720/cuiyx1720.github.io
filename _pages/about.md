@@ -93,7 +93,7 @@ MoPE enables continual adaptation in autonomous driving via progressive expert a
 HEAD is a holistic suite of evolutionary autonomous driving software, based on the MetaDrive simulation platform, that seamlessly imports driving scenarios, uploads training models, and efficiently performs continuous training designed to significantly improve the performance of arbitrary models.
 It was also showcased at the National Industrial Software Conference, where it received high praise from experts.
 
-[<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/abstract/document/10384641) \| [![](https://img.shields.io/github/stars/TJHuangteam/HEAD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/TJHuangteam/HEAD)
+[<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://ieeexplore.ieee.org/abstract/document/10384641) \| [![](https://img.shields.io/github/stars/XingZuoMuYe/HEAD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/XingZuoMuYe/HEAD)
 
 </div>
 </div>
