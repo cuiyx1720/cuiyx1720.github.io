@@ -23,6 +23,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🌟 Selected as a Pioneer Scholar in the SAE Doctoral Talent Program.
 - *2025.07*: &nbsp;👏 Our paper [GEMINUS](https://arxiv.org/abs/2507.14456) on the Mixture-of-Experts framework for end-to-end autonomous driving has been released.
 - *2025.05*: &nbsp;👏 Our survey [CoT4AD](https://arxiv.org/abs/2505.20223) on Chain-of-Thought for autonomous driving has been released.
 - *2025.02*: &nbsp;👏 Our paper [MoPE](https://arxiv.org/abs/2502.05943) on continual adaptation of learning-based autonomous driving has been released.
@@ -104,6 +105,7 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 - *2021.08* &nbsp; **National Second Prize**, 2021 National College Student Energy Conservation and Emission Reduction Competition
 
 # 🏅 Honors
+- *2025.10* &nbsp; **Pioneer Scholar**, SAE Doctoral Talent Program 🏅 (**One of 10 nationwide**)
 - *2024.06* &nbsp; **Outstanding Graduate** of Jilin University (**Top 1%**)
 - *2023.09* &nbsp; **MAXUS Automative Scholarship**, awarded by SAIC MAXUS Automotive Co., Ltd. (**Top 2%**)
 - *2022.09* &nbsp; **Suzhou Industrial Zone Scholarship**, funded by the Suzhou Government of Jiangsu Province (**Top 1%**)
@@ -119,6 +121,8 @@ HEAD is a holistic suite of evolutionary autonomous driving software, based on t
 **Journal Reviewer**:
 - IEEE Transactions on Intelligent Transportation Systems \| [T-ITS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979)
 - Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering \| [Part D](https://journals.sagepub.com/home/pid)
+**Conference Reviewer**: 
+- IEEE International Conference on Robotics and Automation \| [ICRA 2025](https://2025.ieee-icra.org/)
 
 [//]: # (**Conference Reviewer**:  )
 
