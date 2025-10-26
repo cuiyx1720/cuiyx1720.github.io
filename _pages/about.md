@@ -42,7 +42,7 @@ Chi Wan, **Yixin Cui**<span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulo
 
 GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a dual-aware router, achieves state-of-the-art performance and robust adaptability across diverse traffic scenarios.
 
-**Media Coverage**: Featured in the *Heart of Autonomous Driving*. [Read more »](https://mp.weixin.qq.com/s/LU-W2nzSWCr6oHS-2EqZHg)
+**Media Coverage**: Featured in the *Heart of Autonomous Driving* [Read more »](https://mp.weixin.qq.com/s/LU-W2nzSWCr6oHS-2EqZHg)
 
 <span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2507.14456) \| [![](https://img.shields.io/github/stars/newbrains1/GEMINUS?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/newbrains1/GEMINUS)
 
@@ -59,7 +59,7 @@ GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a
 
 We explore how Chain-of-Thought reasoning enhances autonomous driving systems and propose its integration with self-learning for continual model evolution.
 
-**Media Coverage**: Featured in the *Autonomous Driving Column*. [Read more »](https://mp.weixin.qq.com/s/P200xHkVxuys9XRyC3hS5w)
+**Media Coverage**: Featured in the *Autonomous Driving Column* [Read more »](https://mp.weixin.qq.com/s/P200xHkVxuys9XRyC3hS5w)
 
 <span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2505.20223) \| [![](https://img.shields.io/github/stars/cuiyx1720/Awesome-CoT4AD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/cuiyx1720/Awesome-CoT4AD)
 
@@ -134,6 +134,7 @@ I led the presentation of the project at *the National Industrial Software Confe
 [//]: # (- IEEE Intelligent Transportation Systems Conference \| [ITSC]&#40;https://ieee-itsc.org/2024/&#41;)
 
 # 🗣️ Talks
+- *2025.10*, Youth PhD Talent Program during the China-SAE (Society of Automotive Engineers) Congress & Exhibition, on the topic of *Continual Self-Evolution in Closed-Loop Autonomous Driving Systems*
 - *2025.05*, Three-Minute Thesis (3MT) Academic Talk at Tongji University, on the topic of *Continual Self-Evolution in Closed-Loop Autonomous Driving Systems*
 - *2023.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Design of an Automatic Rear-End Collision Warning System for Vehicles* (Project Leader)
 - *2021.10*, Presentation of National Excellent Bachelor Project, Innovation and Entrepreneurship Program: *Visual Filter Based on Self-Driven Film Materials* (Project Participant)
