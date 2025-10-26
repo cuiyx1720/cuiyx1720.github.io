@@ -43,6 +43,7 @@ Chi Wan, **Yixin Cui**<span style="color:#7a8288;">, Jiatong Du, Shuo Yang, Yulo
 GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a dual-aware router, achieves state-of-the-art performance and robust adaptability across diverse traffic scenarios.
 
 <span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2507.14456) \| [![](https://img.shields.io/github/stars/newbrains1/GEMINUS?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/newbrains1/GEMINUS)
+Media Coverage: This work has been featured in a public media article. [Read more »](https://mp.weixin.qq.com/s/LU-W2nzSWCr6oHS-2EqZHg)
 
 
 </div>
@@ -58,7 +59,7 @@ GEMINUS, a Mixture-of-Experts framework for end-to-end autonomous driving with a
 We explore how Chain-of-Thought reasoning enhances autonomous driving systems and propose its integration with self-learning for continual model evolution.
 
 <span style="color:#2c4a88;">arXiv, 2025</span> \| [<img src='images/paper.png' style='width: auto; height: 21px; vertical-align:-30%; margin-right:0px;'>](https://arxiv.org/abs/2505.20223) \| [![](https://img.shields.io/github/stars/cuiyx1720/Awesome-CoT4AD?style=social&label=Code%20Stars&logoColor=2c4a88)](https://github.com/cuiyx1720/Awesome-CoT4AD)
-
+Media Coverage: This work was featured in a public media report highlighting its contributions. [Read more »](https://mp.weixin.qq.com/s/P200xHkVxuys9XRyC3hS5w)
 
 </div>
 </div>
